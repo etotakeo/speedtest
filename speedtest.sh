@@ -47,7 +47,7 @@ echo -n "$MSG_MAIN_MENU"
 			  python speedtest.py --server 4624
 			  ;;
 		5)
-			  python speedtest.py --server 4751
+			  python speedtest.py --server 4571
 			  ;;
 		6)
 			  python speedtest.py --server 17251
